@@ -1,2 +1,2 @@
-# knowChords
+# harmonia
 IA + Guitar = &lt;#
